@@ -5,3 +5,5 @@ This project tasked us with creating an interpreter using Java, with a strong fo
 The full compendium can be found in `Asp-compendium.pdf`, as it was provided for the project. 
 
 The final product was able to correctly interpret code written in Asp, which included error handling, logging, input verification and syntax.
+
+Credits: **Stein Krogdahl** & **Dag Langmyhr**, authors of the compendium.
